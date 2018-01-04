@@ -1,0 +1,20 @@
+{
+    "files": {
+        "\/classes\/hook\/extension.php": {
+            "size": 1385,
+            "hash": "a35b15be8715df66ceb1419b8ed3a580",
+            "errors": false
+        },
+        "\/classes\/index.php": {
+            "size": 247,
+            "hash": "a425ae285a24c11a6fe41de5b6f66b5c",
+            "errors": false
+        },
+        "\/no-comment-points-for-post-authors.php": {
+            "size": 2243,
+            "hash": "fe2b03efe5d5d4708a3a1f4a42b5bec4",
+            "errors": false
+        }
+    },
+    "config_signature": "ab0c4967028d7ebf62089741c99a50c1"
+}
