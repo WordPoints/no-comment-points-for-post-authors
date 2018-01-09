@@ -21,7 +21,7 @@
  * ---------------------------------------------------------------------------------|
  *
  * @package WordPoints_NCPFPA
- * @version 1.0.0
+ * @version 1.0.1
  * @author  J.D. Grimes <jdg@codesymphony.co>
  * @license GPLv2+
  */
@@ -32,7 +32,7 @@ WordPoints_Modules::register(
 		Author:         J.D. Grimes
 		Author URI:     https://wordpoints.org/
 		Extension URI:  https://wordpoints.org/modules/no-comment-points-for-post-authors/
-		Version:        1.0.0
+		Version:        1.0.1
 		License:        GPLv2+
 		Description:    Prevents post authors from being awarded points when they comment on their own posts.
 		Text Domain:    wordpoints-no-comment-points-for-post-authors
